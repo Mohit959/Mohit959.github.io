@@ -1,0 +1,31 @@
+.green{
+	padding: 5px;
+	background: green;
+	margin: 5px;
+	border : solid green 2px;
+	border-radius: 5px;
+	
+}
+#logo{
+	background-image: url('images.jpg') ;
+	width: 39px;
+	height: 39px;
+}
+.myform{
+	padding: 15px;
+}
+
+.heading{
+	text-align: left;
+	margin-right: 80%;
+	font-size: 2em;
+	color: white;
+}
+.navbar-brand{
+	margin-left:25px;
+}
+.hh{
+	font-size:2.2em;
+	color: white;
+	padding-left: 3px;
+}
